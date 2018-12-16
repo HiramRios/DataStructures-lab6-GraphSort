@@ -1,1 +1,1 @@
-# Lab6
+# Lab6_data_structures_graphs
